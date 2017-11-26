@@ -10,4 +10,4 @@ Overall I would hope that my site is visited and used easily and the style I am 
 
 How will you build your site to support your desired user experience?
 My aim is to treat my site as as a sandbox where I will be constantly trying different things and eventually end up with a great product that I can
-showcase with confidence that I shows a good level knoeledge and design aility. 
+showcase with confidence that I shows a good level knowledge and design ability. 
